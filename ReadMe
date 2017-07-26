@@ -19,12 +19,13 @@ output
 complete food order
 
 __________________________________________________________________________________________________
- Input           Processing                               Output                               
- pageOneResp     chose food (Chipotle or Mediterranean)   Restaurant, style of food, and meat  
- pageTwoResp     Chipotle Burrito or Bowl                                                      
- pageThreeRest   Mediterranean Kabob or Gyro                                                   
- pageFourResp    Chipotle Burrito Chicken or Steak                                             
- pageFiveResp    Chipotle Bowl Veggie or Pork                                                  
- pageSixResp     Mediterranean Kabob chicken or lamb                                           
- pageSevenResp   Mediterranean Gyro Steak or lamb                                              
-                                                                                               
+  Input                                 Processing                  Output                                 
+                                                                   Choose a type of food                  
+ Get input to the first question       Chipotle or Mediterranean   If chipotle choose burrito or bowl     
+                                                                   if mediterranean choose kabob or gyro  
+ get input from chipotle choice        buttito or bowl             if burrito choose chicken or steak     
+                                                                   if bowl choose veggie or pork          
+ get input from mediterranean choice   kabob or gyro               if kabob choose chicken or lamb        
+                                                                   if gyro choose steak or lamb           
+ get meat choice                                                                                          
+                                                                   output restaurant food and meat        
