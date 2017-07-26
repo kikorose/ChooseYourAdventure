@@ -17,3 +17,14 @@ use algorithm to determine the branch to go to
 output 
 
 complete food order
+
+__________________________________________________________________________________________________
+ Input           Processing                               Output                               
+ pageOneResp     chose food (Chipotle or Mediterranean)   Restaurant, style of food, and meat  
+ pageTwoResp     Chipotle Burrito or Bowl                                                      
+ pageThreeRest   Mediterranean Kabob or Gyro                                                   
+ pageFourResp    Chipotle Burrito Chicken or Steak                                             
+ pageFiveResp    Chipotle Bowl Veggie or Pork                                                  
+ pageSixResp     Mediterranean Kabob chicken or lamb                                           
+ pageSevenResp   Mediterranean Gyro Steak or lamb                                              
+                                                                                               
