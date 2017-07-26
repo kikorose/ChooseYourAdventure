@@ -1,0 +1,19 @@
+prompt the user
+we accept their answer
+base off their answer we choose a branch
+we repeat input/output process
+
+
+
+Input
+user input a/b
+and output would be the choice
+
+
+
+process
+use algorithm to determine the branch to go to
+
+output 
+
+complete food order
